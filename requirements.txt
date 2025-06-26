@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+langchain-community
+duckduckgo-search
+langgraph
+
+beautifulsoup4
+
+lxml
+arxiv
+pandas
+matplotlib
+seaborn
+
+numpy
+requests
+python-dotenv
