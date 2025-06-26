@@ -5,7 +5,7 @@ A sophisticated multi-tool AI agent built with LangChain, Groq, and multiple res
 ## Features
 
 - **ArXiv Paper Search**: Find and analyze recent academic papers
-- **Intelligent Summarization**: Generate comprehensive paper summaries using Groq's Mixtral model
+- **Intelligent Summarization**: Generate comprehensive paper summaries using Groq's Deepseek model
 - **Web Search Integration**: DuckDuckGo search for additional context
 - **Publication Trend Analysis**: Visualize research trends over time
 - **Dataset Recommendations**: Suggest relevant open-source datasets
